@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>6</zoom_level>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>96</x>
+      <y>114</y>
+      <w>888</w>
+      <h>336</h>
+    </coordinates>
+    <panel_attributes>SD:Payment
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
