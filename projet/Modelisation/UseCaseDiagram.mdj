@@ -95,7 +95,7 @@
 											"top": 239,
 											"width": 919,
 											"height": 13,
-											"text": "GESTION DE PAIEMENT"
+											"text": "GESTION DE PAIEMENT DANS LA PLATE-FORME"
 										},
 										{
 											"_type": "LabelView",
@@ -620,9 +620,9 @@
 											"parentStyle": true,
 											"left": -756,
 											"top": -264,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -820,7 +820,7 @@
 											"top": 486.5,
 											"width": 154,
 											"height": 13,
-											"text": "Inspecter document"
+											"text": "Inspecter concours"
 										},
 										{
 											"_type": "LabelView",
@@ -833,9 +833,9 @@
 											"parentStyle": true,
 											"left": -824,
 											"top": -312,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -884,7 +884,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -416,
-									"top": -176,
+									"top": -120,
 									"width": 10,
 									"height": 10
 								},
@@ -901,7 +901,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -416,
-									"top": -176,
+									"top": -120,
 									"width": 10,
 									"height": 10
 								},
@@ -918,7 +918,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -416,
-									"top": -176,
+									"top": -120,
 									"width": 10,
 									"height": 10
 								},
@@ -935,7 +935,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -416,
-									"top": -176,
+									"top": -120,
 									"width": 10,
 									"height": 10
 								},
@@ -952,7 +952,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -416,
-									"top": -176,
+									"top": -120,
 									"width": 10,
 									"height": 10
 								}
@@ -1033,7 +1033,7 @@
 											"top": 682.5,
 											"width": 176,
 											"height": 13,
-											"text": "Choisir le mode de paiement"
+											"text": "Choisir documents"
 										},
 										{
 											"_type": "LabelView",
@@ -1046,9 +1046,9 @@
 											"parentStyle": true,
 											"left": -656,
 											"top": -144,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -1069,7 +1069,7 @@
 									"parentStyle": true,
 									"left": 575,
 									"top": 675.5,
-									"width": 186.9853515625,
+									"width": 186,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGfuCk0hJyjcho="
@@ -1246,7 +1246,7 @@
 											"top": 860,
 											"width": 103,
 											"height": 13,
-											"text": "Paiements"
+											"text": "Paiement"
 										},
 										{
 											"_type": "LabelView",
@@ -1259,9 +1259,9 @@
 											"parentStyle": true,
 											"left": -416,
 											"top": 192,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -1310,7 +1310,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -176,
-									"top": 144,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								},
@@ -1327,7 +1327,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -176,
-									"top": 144,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								},
@@ -1344,7 +1344,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -176,
-									"top": 144,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								},
@@ -1361,7 +1361,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -176,
-									"top": 144,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								},
@@ -1378,7 +1378,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": -176,
-									"top": 144,
+									"top": 64,
 									"width": 10,
 									"height": 10
 								}
@@ -1472,9 +1472,9 @@
 											"parentStyle": true,
 											"left": -1224,
 											"top": 1096,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -1656,7 +1656,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1200,
+											"left": -1184,
 											"top": 1080,
 											"height": 13
 										},
@@ -1668,7 +1668,7 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 576,
+											"left": 584,
 											"top": 1154.5,
 											"width": 119,
 											"height": 13,
@@ -1683,11 +1683,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1200,
+											"left": -1184,
 											"top": 1080,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -1698,7 +1698,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1200,
+											"left": -1184,
 											"top": 1080,
 											"height": 13,
 											"horizontalAlignment": 1
@@ -1706,7 +1706,7 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 571,
+									"left": 579,
 									"top": 1147.5,
 									"width": 129.8818359375,
 									"height": 25,
@@ -1735,7 +1735,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -608,
+									"left": -600,
 									"top": 536,
 									"width": 10,
 									"height": 10
@@ -1752,7 +1752,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -608,
+									"left": -600,
 									"top": 536,
 									"width": 10,
 									"height": 10
@@ -1769,7 +1769,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -608,
+									"left": -600,
 									"top": 536,
 									"width": 10,
 									"height": 10
@@ -1786,7 +1786,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -608,
+									"left": -600,
 									"top": 536,
 									"width": 10,
 									"height": 10
@@ -1803,7 +1803,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -608,
+									"left": -600,
 									"top": 536,
 									"width": 10,
 									"height": 10
@@ -1815,7 +1815,7 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 544,
+							"left": 552,
 							"top": 1128,
 							"width": 183,
 							"height": 64,
@@ -1869,7 +1869,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1168,
+											"left": -1184,
 											"top": 984,
 											"height": 13
 										},
@@ -1881,11 +1881,11 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 605,
+											"left": 602.5,
 											"top": 1260,
-											"width": 104,
+											"width": 132,
 											"height": 13,
-											"text": "Verifier paiement"
+											"text": "Verifier la transaction"
 										},
 										{
 											"_type": "LabelView",
@@ -1896,11 +1896,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1168,
+											"left": -1184,
 											"top": 984,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -1911,7 +1911,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1168,
+											"left": -1184,
 											"top": 984,
 											"height": 13,
 											"horizontalAlignment": 1
@@ -1919,9 +1919,9 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 600,
+									"left": 597.5,
 									"top": 1253,
-									"width": 114.76806640625,
+									"width": 142.2216796875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGfuCx4VZ1qEYo="
@@ -1948,7 +1948,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -592,
+									"left": -600,
 									"top": 488,
 									"width": 10,
 									"height": 10
@@ -1965,7 +1965,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -592,
+									"left": -600,
 									"top": 488,
 									"width": 10,
 									"height": 10
@@ -1982,7 +1982,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -592,
+									"left": -600,
 									"top": 488,
 									"width": 10,
 									"height": 10
@@ -1999,7 +1999,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -592,
+									"left": -600,
 									"top": 488,
 									"width": 10,
 									"height": 10
@@ -2016,7 +2016,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -592,
+									"left": -600,
 									"top": 488,
 									"width": 10,
 									"height": 10
@@ -2028,9 +2028,9 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 576,
+							"left": 568,
 							"top": 1240,
-							"width": 162,
+							"width": 201,
 							"height": 51,
 							"nameCompartment": {
 								"$ref": "AAAAAAGfuCx4VZ1psnY="
@@ -2082,7 +2082,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1240,
+											"left": -1256,
 											"top": 1048,
 											"height": 13
 										},
@@ -2094,11 +2094,11 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 572.5,
+											"left": 570,
 											"top": 1446.5,
-											"width": 180,
+											"width": 207,
 											"height": 13,
-											"text": "Ouvrir acces temporairement"
+											"text": "Verifier les acces temporaires"
 										},
 										{
 											"_type": "LabelView",
@@ -2109,11 +2109,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1240,
+											"left": -1256,
 											"top": 1048,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -2124,7 +2124,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -1240,
+											"left": -1256,
 											"top": 1048,
 											"height": 13,
 											"horizontalAlignment": 1
@@ -2132,9 +2132,9 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 567.5,
+									"left": 565,
 									"top": 1439.5,
-									"width": 190.63525390625,
+									"width": 217,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGfuCzndZ2cCps="
@@ -2161,7 +2161,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -632,
+									"left": -640,
 									"top": 504,
 									"width": 10,
 									"height": 10
@@ -2178,7 +2178,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -632,
+									"left": -640,
 									"top": 504,
 									"width": 10,
 									"height": 10
@@ -2195,7 +2195,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -632,
+									"left": -640,
 									"top": 504,
 									"width": 10,
 									"height": 10
@@ -2212,7 +2212,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -632,
+									"left": -640,
 									"top": 504,
 									"width": 10,
 									"height": 10
@@ -2229,7 +2229,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -632,
+									"left": -640,
 									"top": 504,
 									"width": 10,
 									"height": 10
@@ -2241,9 +2241,9 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 528,
+							"left": 520,
 							"top": 1408,
-							"width": 269,
+							"width": 307,
 							"height": 88,
 							"nameCompartment": {
 								"$ref": "AAAAAAGfuCzndJ2bk1g="
@@ -2324,9 +2324,9 @@
 											"parentStyle": true,
 											"left": 592,
 											"top": -272,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -2501,7 +2501,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 623,
+									"left": 627,
 									"top": 1069,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2522,8 +2522,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 582,
-									"top": 1068,
+									"left": 586,
+									"top": 1069,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2546,7 +2546,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 652,
+									"left": 656,
 									"top": 1070,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2566,7 +2566,7 @@
 								"$ref": "AAAAAAGfuCwE3J04AyE="
 							},
 							"lineStyle": 1,
-							"points": "636:1127;641:1025",
+							"points": "643:1127;642:1025",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfuEL6Fr4pnSY="
@@ -2863,7 +2863,7 @@
 								"$ref": "AAAAAAGfuCx4VZ1oNTw="
 							},
 							"lineStyle": 1,
-							"points": "575:1264;496:1264;488:872;583:868",
+							"points": "567:1264;496:1264;488:872;583:868",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfuEnPTb6sHxk="
@@ -2897,7 +2897,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 644,
+									"left": 655,
 									"top": 1343,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2918,7 +2918,7 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 602,
+									"left": 613,
 									"top": 1343,
 									"width": 55.65625,
 									"height": 13,
@@ -2942,7 +2942,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 673,
+									"left": 684,
 									"top": 1342,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2962,7 +2962,7 @@
 								"$ref": "AAAAAAGfuCzndJ2aB3U="
 							},
 							"lineStyle": 1,
-							"points": "661:1407;658:1292",
+							"points": "672:1407;669:1292",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfuEo3vb697pU="
@@ -2996,8 +2996,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 781,
-									"top": 1302,
+									"left": 841,
+									"top": 1293,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3017,8 +3017,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 739,
-									"top": 1302,
+									"left": 799,
+									"top": 1293,
 									"width": 55.65625,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3041,8 +3041,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 810,
-									"top": 1301,
+									"left": 871,
+									"top": 1294,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3061,7 +3061,7 @@
 								"$ref": "AAAAAAGfuCzndJ2aB3U="
 							},
 							"lineStyle": 1,
-							"points": "798:1456;800:1456;792:1160;728:1160",
+							"points": "828:1442;856:1440;856:1160;736:1160",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfuErrTr7O/d4="
@@ -4610,7 +4610,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 399,
+									"left": 403,
 									"top": 1152,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4632,7 +4632,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 398,
+									"left": 402,
 									"top": 1137,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4654,7 +4654,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 400,
+									"left": 404,
 									"top": 1181,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -4742,7 +4742,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 516,
+									"left": 524,
 									"top": 1145,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -4763,7 +4763,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 513,
+									"left": 521,
 									"top": 1132,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -4784,7 +4784,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 522,
+									"left": 530,
 									"top": 1172,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -4833,7 +4833,7 @@
 								"$ref": "AAAAAAGfuB8r+pjI2Ak="
 							},
 							"lineStyle": 1,
-							"points": "257:1182;543:1165",
+							"points": "257:1182;551:1165",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfws35Zwu78RY="
@@ -4892,8 +4892,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 418,
-									"top": 1199,
+									"left": 414,
+									"top": 1197,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4914,8 +4914,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 421,
-									"top": 1184,
+									"left": 417,
+									"top": 1182,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -4936,8 +4936,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 413,
-									"top": 1228,
+									"left": 409,
+									"top": 1226,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -4959,7 +4959,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 285,
-									"top": 1174,
+									"top": 1173,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -4980,7 +4980,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 290,
+									"left": 289,
 									"top": 1161,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -5002,7 +5002,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 275,
+									"left": 276,
 									"top": 1200,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -5024,8 +5024,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 552,
-									"top": 1224,
+									"left": 544,
+									"top": 1221,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -5045,8 +5045,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 552,
-									"top": 1210,
+									"left": 544,
+									"top": 1208,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -5066,8 +5066,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 551,
-									"top": 1252,
+									"left": 543,
+									"top": 1249,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5115,7 +5115,7 @@
 								"$ref": "AAAAAAGfuB8r+pjI2Ak="
 							},
 							"lineStyle": 1,
-							"points": "257:1190;575:1250",
+							"points": "257:1190;567:1247",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfws4lERDbSrk="
@@ -5174,7 +5174,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 429,
+									"left": 434,
 									"top": 1286,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -5196,7 +5196,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 437,
+									"left": 442,
 									"top": 1273,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -5218,7 +5218,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 414,
+									"left": 419,
 									"top": 1311,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -5284,7 +5284,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 268,
+									"left": 269,
 									"top": 1219,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -5306,7 +5306,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 573,
+									"left": 583,
 									"top": 1374,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -5327,7 +5327,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 578,
+									"left": 588,
 									"top": 1362,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -5348,7 +5348,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 563,
+									"left": 573,
 									"top": 1400,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -5397,7 +5397,7 @@
 								"$ref": "AAAAAAGfuB8r+pjI2Ak="
 							},
 							"lineStyle": 1,
-							"points": "257:1204;588:1407",
+							"points": "257:1204;598:1407",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfws5BXRVH6W4="
@@ -6035,7 +6035,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 889,
+									"left": 893,
 									"top": 1117,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6056,7 +6056,7 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 861,
+									"left": 865,
 									"top": 1102,
 									"width": 55.65625,
 									"height": 13,
@@ -6080,7 +6080,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 892,
+									"left": 896,
 									"top": 1146,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -6100,7 +6100,7 @@
 								"$ref": "AAAAAAGfuCwE3J04AyE="
 							},
 							"lineStyle": 1,
-							"points": "728:1152;1055:1125",
+							"points": "736:1152;1055:1125",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfw87LP+Wr3BU="
@@ -6134,8 +6134,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 892,
-									"top": 1168,
+									"left": 897,
+									"top": 1169,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -6155,8 +6155,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 861,
-									"top": 1154,
+									"left": 865,
+									"top": 1155,
 									"width": 55.65625,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6179,8 +6179,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 901,
-									"top": 1197,
+									"left": 906,
+									"top": 1198,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -6199,7 +6199,7 @@
 								"$ref": "AAAAAAGfuCx4VZ1oNTw="
 							},
 							"lineStyle": 1,
-							"points": "739:1239;1055:1140",
+							"points": "749:1239;1055:1141",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGfw87w6On0oNA="
@@ -6269,9 +6269,9 @@
 											"parentStyle": true,
 											"left": 48,
 											"top": -240,
-											"width": 187.5478515625,
+											"width": 341.89111328125,
 											"height": 13,
-											"text": "(from GESTION DE PAIEMENT)"
+											"text": "(from GESTION DE PAIEMENT DANS LA PLATE-FORME)"
 										},
 										{
 											"_type": "LabelView",
@@ -6539,7 +6539,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGfuBKgGZe3aso="
 					},
-					"name": "GESTION DE PAIEMENT",
+					"name": "GESTION DE PAIEMENT DANS LA PLATE-FORME",
 					"ownedElements": [
 						{
 							"_type": "UMLUseCase",
@@ -6555,7 +6555,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGfuBlM7ph3oWU="
 							},
-							"name": "Inspecter document",
+							"name": "Inspecter concours",
 							"ownedElements": [
 								{
 									"_type": "UMLInclude",
@@ -6669,7 +6669,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGfuBlM7ph3oWU="
 							},
-							"name": "Choisir le mode de paiement",
+							"name": "Choisir documents",
 							"ownedElements": [
 								{
 									"_type": "UMLInclude",
@@ -6754,7 +6754,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGfuBlM7ph3oWU="
 							},
-							"name": "Paiements",
+							"name": "Paiement",
 							"ownedElements": [
 								{
 									"_type": "UMLInclude",
@@ -6902,7 +6902,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGfuBlM7ph3oWU="
 							},
-							"name": "Verifier paiement",
+							"name": "Verifier la transaction",
 							"ownedElements": [
 								{
 									"_type": "UMLInclude",
@@ -6938,7 +6938,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGfuBlM7ph3oWU="
 							},
-							"name": "Ouvrir acces temporairement",
+							"name": "Verifier les acces temporaires",
 							"ownedElements": [
 								{
 									"_type": "UMLInclude",
