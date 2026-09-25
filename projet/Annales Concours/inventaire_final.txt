@@ -1,0 +1,43 @@
+=== RACINE ===
+total 64
+drwxrwxr-x  4 fygdev fygdev 4096 août  31 08:24 .
+drwxr-xr-x 19 fygdev fygdev 4096 août  28 09:46 ..
+-rw-rw-r--  1 fygdev fygdev 8634 août  28 18:37 etat_projet.txt
+-rw-rw-r--  1 fygdev fygdev   15 août  31 08:24 inventaire_final.txt
+-rw-rw-r--  1 fygdev fygdev 3843 août  31 08:21 logs_telechargement.txt
+-rw-rw-r--  1 fygdev fygdev 9420 août  31 08:21 rapport_telechargement.json
+-rw-rw-r--  1 fygdev fygdev 2137 août  31 08:23 README.md
+drwxrwxr-x  2 fygdev fygdev 4096 août  31 08:15 scripts
+drwxrwxr-x 14 fygdev fygdev 4096 août  25 18:14 sujets_concours
+-rw-rw-r--  1 fygdev fygdev 5487 août  31 08:21 SYNTHESE_COLLECTE.md
+-rw-rw-r--  1 fygdev fygdev   30 août  31 08:18 validation_finale.txt
+
+=== NB PDF PAR CONCOURS ===
+0  CUSS
+14  ENAM
+2  ENIEG
+3  ENIET
+0  ENSET_Douala
+0  ENSPD
+17  ENS_Yaounde
+0  EPF_ISSEA
+6  FASA_Dschang
+0  IRIC
+0  Mines_Maroua
+0  Polytechnique_Yaounde
+
+=== SCRIPTS ===
+article_urls_iric_ide_ensp.txt
+build_report.py
+edu_collections.txt
+edu_links.txt
+enieg2.txt
+ensp_ide_manifest.tsv
+fmsb_manifest.tsv
+fmsb.txt
+ide_edu.txt
+miner_debug.txt
+miner.py
+net_test.txt
+scrape_ensp_ide.log
+scrape_ensp_ide.py

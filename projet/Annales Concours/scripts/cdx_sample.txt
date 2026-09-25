@@ -1,0 +1,42 @@
+===== kamerpower_com =====
+lignes 8001
+  timestamp	original	statuscode	mimetype
+  20141013030749	http://kamerpower.com:80/	200	text/html
+  20250701234904	https://kamerpower.com/.well-known/assetlinks.json	200	application/json
+  20211021213043	https://kamerpower.com/10-apps-that-loan-you-money-now-getting-cash-advances/	200	text/html
+  20211025065826	https://kamerpower.com/10-apps-that-loan-you-money-now-getting-cash-advances/?amp	200	text/html
+  20141031195235	http://kamerpower.com/10-bad-relationship-tips-that-single-girls-shouldnt-follow/	200	text/html
+  20150907053658	https://kamerpower.com/10-bad-relationship-tips-that-single-girls-shouldnt-follow/feed/	200	application/rss+xml
+  20230401204902	https://kamerpower.com/10-benefits-of-being-a-transcriptionist-in-2023/	200	text/html
+  20230605002948	https://kamerpower.com/10-best-accelerated-online-theology-degree-cheapest-online-theology-degree/	200	text/html
+  20230605002948	https://kamerpower.com/10-best-accelerated-online-theology-degree-cheapest-online-theology-degree/amp/	200	text/html
+  20211205151237	https://kamerpower.com/10-best-accredited-dance-schools-colleges-in-the-world-2021/	200	text/html
+  20220327182005	https://kamerpower.com/10-best-accredited-dance-schools-colleges-in-the-world-2021/amp/	200	text/html
+===== touslesconcours_info =====
+lignes 8001
+  timestamp	original	statuscode	mimetype
+  20111115225856	http://www.touslesconcours.info:80/	200	text/html
+  20130423214332	http://touslesconcours.info/%22/%22	200	text/html
+  20140718065222	http://touslesconcours.info/)	200	text/html
+  20170104082018	http://www.touslesconcours.info:80/100-correspondance/lettre	200	text/html
+  20161111112857	http://touslesconcours.info:80/104-bourses-et-organismes/1083-bourses-d-etude-de-l-institut-mandela-sur-le-developpement-minds-pour-les-chercheurs-africains	200	text/html
+  20161111112305	http://touslesconcours.info:80/104-bourses-et-organismes/1084-programme-de-bourses-stias-iso-lomso-pour-la-recherche-en-afrique	200	text/html
+  20161111112042	http://touslesconcours.info:80/104-bourses-et-organismes/1100-bourses-de-master-en-sante-publique-et-de-medecine-tropicale	200	text/html
+  20150507185517	http://www.touslesconcours.info:80/2013-02-20-08-59-23	200	text/html
+  20170523020453	http://touslesconcours.info:80/2013-02-20-08-59-23/typography	200	text/html
+  20160111084850	http://www.touslesconcours.info:80/79-etudier-a-l-etranger	200	text/html
+  20161117084102	http://touslesconcours.info:80/79-etudier-a-l-etranger/1056-comment-aller-etudier-en-france-2	200	text/html
+===== ornipreparation_com =====
+lignes 4440
+  timestamp	original	statuscode	mimetype
+  20220310204548	https://ornipreparation.com/	200	text/html
+  20250909043652	https://ornipreparation.com/?s=%7Bsearch_term_string%7D	200	text/html
+  20230530045721	https://ornipreparation.com/about	200	text/html
+  20230530052017	https://ornipreparation.com/access-higher-institute-of-professional-studies-access-hips	200	text/html
+  20240424060447	https://ornipreparation.com/access-higher-institute-of-professional-studies-access-hips-2	200	text/html
+  20230530041834	https://ornipreparation.com/achas-higher-institute-of-sustainable-tourism-hospitality-and-business-management	200	text/html
+  20230927092403	https://ornipreparation.com/acheteurs-detail-essentiels-succes-entreprise-vente-detail-assurent-produits-appropries-achetes-bon-prix	200	text/html
+  20240303153916	https://ornipreparation.com/acteur	200	text/html
+  20231003233339	https://ornipreparation.com/actuaire	200	text/html
+  20240303150635	https://ornipreparation.com/adjointe-a-la-redaction	200	text/html
+  20240303150313	https://ornipreparation.com/administrateur-artistique	200	text/html

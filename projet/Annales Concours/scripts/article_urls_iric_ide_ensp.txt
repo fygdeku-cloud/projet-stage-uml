@@ -1,0 +1,21 @@
+# URLS for IRIC, IDE (infirmiers) and ENSP (Polytechnique) sujets on concourscameroon.com
+# --- IRIC ---
+https://concourscameroon.com/anciennes-epreuves-institut-des.html
+https://concourscameroon.com/anciennes-epreuves-et-corriges-du_81.html
+https://concourscameroon.com/anciennes-epreuves-et-corriges-du_20.html
+https://concourscameroon.com/anciennes-epreuves-et-corriges-du_2.html
+https://concourscameroon.com/anciennes-epreuves-et-corriges-du_85.html
+# --- IDE / Infirmiers ---
+https://concourscameroon.com/anciennes-epreuves-chimie-du-concours-2.html
+https://concourscameroon.com/anciennes-epreuves-culture-generale-du_28.html
+https://concourscameroon.com/anciennes-epreuves-langue-du-concours.html
+https://concourscameroon.com/anciennes-epreuves-mathematique-du_28.html
+https://concourscameroon.com/anciennes-epreuves-physique-du-concours-2.html
+https://concourscameroon.com/anciennes-epreuves-culture-generale-du-concours-2.html
+# --- ENSP / Polytechnique ---
+https://concourscameroon.com/anciennes-epreuves-de-mathematique-du_13.html
+https://concourscameroon.com/anciennes-epreuves-de-physique-du-2.html
+https://concourscameroon.com/anciennes-epreuves-de-mathematique-du-2.html
+https://concourscameroon.com/anciennes-epreuves-de-informatique-du.html
+https://concourscameroon.com/anciennes-epreuves-de-physique-du_13.html
+https://concourscameroon.com/ecole-nationale-superieure-polytecnique

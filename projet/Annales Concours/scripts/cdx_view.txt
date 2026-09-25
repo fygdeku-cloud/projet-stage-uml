@@ -1,0 +1,19 @@
+=== kamerpower pdf ===
+
+=== fichiers cdx ===
+scripts/cdx_cameroondeskacademy_com_pages.tsv 0
+scripts/cdx_cameroondeskacademy_com_pdf.tsv 0
+scripts/cdx_grandprof_net_pdf.tsv 0
+scripts/cdx_hunter2.log 291
+scripts/cdx_hunter2.py 1856
+scripts/cdx_hunter.log 287
+scripts/cdx_hunter.py 2445
+scripts/cdx_kamerpower_com_all.tsv 1031921
+scripts/cdx_kamerpower_com_pages.tsv 0
+scripts/cdx_kamerpower_com_pdf.tsv 0
+scripts/cdx_orniformation_com_pdf.tsv 0
+scripts/cdx_ornipreparation_com_all.tsv 593906
+scripts/cdx_ornipreparation_com_pdf.tsv 0
+scripts/cdx_touslesconcours_info_all.tsv 1107982
+scripts/cdx_touslesconcours_info_pdf.tsv 0
+scripts/cdx_view.txt 45
